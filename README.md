@@ -14,7 +14,7 @@ Engage with your PDF documents in a whole new way! This interactive PDF ChatBot 
 
 1. Install the required dependencies by running: `pip install -r requirements.txt`
 2. Set up your environment variables in a `.env` file.
-3. Run the application: `streamlit run main.py`
+3. Run the application: `streamlit run app.py`
 
 ## Dependencies
 
